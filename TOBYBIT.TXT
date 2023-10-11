@@ -1,0 +1,1 @@
+models and uploads folder go in root dir, same with server.js, upload.ejs goes in views
